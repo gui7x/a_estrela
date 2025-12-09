@@ -9,4 +9,4 @@ O objetivo é encontrar o caminho de menor custo entre dois pontos utilizando he
 2. Baixe o arquivo main.py
 3. Instale as bibliotecas e execute o programa
 
-Opcional: faça testes com diferentes grafos para analisar o comportamento do código
+Opcional: faça testes com diferentes grafos para analisar o comportamento do código.
